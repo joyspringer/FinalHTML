@@ -1,0 +1,112 @@
+/*
+  Final HTML
+  Layout Style Sheet
+
+  Author: Joy Springer
+
+*/
+
+
+  body {
+    background-color: #c2d6d6;
+    color: #293d3d;
+    font-family: Arial, sans-serif;
+    font-size: 1.2em;
+  }
+
+  h1 {
+    font-family: Verdana, Arial, sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    text-size: 2.5em;
+  }
+
+  h2, h3, h4{
+    font-family: Verdana, Arial, sans-serif;
+    font-variant: small-caps;
+    text-align: center;
+    text-size: 2.5em;
+    margin-bottom: 10px;
+  }
+
+  table {
+    border: solid 6px #334d4d;
+    border-collapse: collapse;
+    margin: 10px auto;
+    font-size: 1.2em;
+    background-color: #a4c1c1;
+  }
+
+  caption {
+    padding: 4px;
+    color: white;
+    font-style: italic;
+    font-size: 1.2em;
+  }
+
+  th, td {
+    border: solid 2px #85adad;
+  }
+
+  div {
+    text-align: right;
+  }
+
+  img {
+    border: 5px solid #555;
+  }
+
+  img.right {
+    border: 5px solid #555;
+    float: right;
+    margin: 10px 0 10px 10px;
+    text-align: right;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  nav {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+
+  p {
+    text-align: center;
+    text-size: 1.2em;
+  }
+
+  p.listheading {
+    font-style: italic;
+    font-size: 1em;
+    text-transform: small caps;
+    text-align: left;
+  }
+
+  .spreadheading {
+    letter-spacing: 6px;
+    word-spacing: 6px;
+  }
+
+  links {
+    color: #00e6e6;
+    text-decoration: underline;
+  }
+
+  ul {
+    list-style-type: square;
+  }
+
+  footer {
+    color: #004d4d;
+    background-color:
+    font-size: .7em;
+    text-align: center;
+  }
+
+
+
+  </style>
